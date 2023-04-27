@@ -1,5 +1,5 @@
 # jak-zostac-inzynierem
 Testowe repozytorium
-- raz \
-- dwa\
+- raz 
+- dwa
 - trzy
